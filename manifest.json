@@ -1,6 +1,8 @@
+
 {
-  "version": "0.1.0",
-  "packageUrl": "https://github.com/amirulmokhtar0605-hash/GenZRO-Patcher/releases/download/v0.1.0/GenZRO_Patch_v1.0.zip",
-  "sha256": "60274fe2c8b1088fef11444fe161ccaba8704671a2252923d0d0c7edc6a6db63",
-  "news": "Welcome to GenZRO!"
+  "version": "0.1.1",
+  "packageUrl": "https://raw.githubusercontent.com/amirulmokhtar0605-hash/GenZRO-Patcher/main/GenZRO_Patch_v0.1.1.zip",
+  "sha256": "7a3d4c36be79eae7f359814ea5b10f15257e2499abdf051dde99ddc3e1dd2829",
+  "news": "GenZRO Patch v0.1.1 - Item descriptions updated."
 }
+
