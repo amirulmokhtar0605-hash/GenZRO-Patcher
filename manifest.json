@@ -1,7 +1,7 @@
 
 {
-  "version": "0.1.2",
-  "packageUrl": "https://raw.githubusercontent.com/amirulmokhtar0605-hash/GenZRO-Patcher/main/GenZRO_Patch_v0.1.2.zip",
-  "sha256": "859b05c5afa15e89b732c35455ce9b17712251819c72c29b83b840f657f7aef0",
-  "news": "GenZRO Patch v0.1.2 - Item descriptions updated. Stability fix."
+  "version": "0.1.3",
+  "packageUrl": "https://raw.githubusercontent.com/amirulmokhtar0605-hash/GenZRO-Patcher/main/GenZRO_Patch_v0.1.3.zip",
+  "sha256": "afb08970f5c71219726aa4522452aa326efb4dd110dde082dd8eb0b9b19c78c6",
+  "news": "GenZRO Patch v0.1.3 - Job Adaptive Megingjard description updated."
 }
