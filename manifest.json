@@ -1,7 +1,5 @@
-
 {
-  "version": "0.1.4",
-  "packageUrl": "https://raw.githubusercontent.com/amirulmokhtar0605-hash/GenZRO-Patcher/main/GenZRO_Patch_v0.1.4.zip",
-  "sha256": "ca3853fbdf0cec8b2da7bd212d97cace3a25baeeed30aa20c19daf09079616ab",
-  "news": "GenZRO Patch v0.1.4 - Updated itemInfo.lua."
+  "version": "0.1.5",
+  "packageUrl": "https://raw.githubusercontent.com/amirulmokhtar0605-hash/GenZRO-Patcher/main/GenZRO_Patch_v0.1.5.zip",
+  "sha256": "710dd7a53e5402adc84e6f9ade93124cc3d25bafba98c693677bd1596da8f19b"
 }
